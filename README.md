@@ -2,6 +2,9 @@
 
 Just a simple dark theme for the kalavaro text box. This will NOT cahnge teh rest of the GUI colour scheme.
 
+## Screenshots
+![Alt text](/darklavaro.png?raw=true "Screenshot with Mint-Y-Yltra-Dark theme on Debian")
+
 ## Getting Started
 
 It is really easy to change the Klavaro theme. Just follow these instructions.
