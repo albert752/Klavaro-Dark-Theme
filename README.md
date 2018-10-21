@@ -8,16 +8,16 @@ It is really easy to change the Klavaro theme. Just follow these instructions.
 
 ### Prerequisites
 
-Obviously Klavaro. It can be installed by running:
+#### Klavaro
+Install it in linux running:
 ```
 sudo apt install klavaro
 ```
-_Please refer to http://klavaro.sourceforge.net/en/index.html for further information_
+_Please refer to http://klavaro.sourceforge.net/en/index.html for further information or for other platforms_
 
 ### Installing
-
-It is super easy to install these theme. Just run in the directory 
-
+#### Linux
+On the working directory, run:
 ```
 mv preferences.ini ~/.config/klavaro
 ```
